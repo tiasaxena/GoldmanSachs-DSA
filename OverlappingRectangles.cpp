@@ -1,5 +1,5 @@
 //Problem Link : https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/#
-
+//Problem Type : Basics, Mathematical
 class Solution {
   public:
     int doOverlap(int l1[], int r1[], int l2[], int r2[]) {
