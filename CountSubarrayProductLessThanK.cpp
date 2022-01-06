@@ -1,6 +1,6 @@
 
 //problem link : https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/
-
+//Problem Tye - (variable) SLiding Window
 class Solution{
   public:
     int countSubArrayProductLessThanK(const vector<int>& nums, int n, long long product) {
